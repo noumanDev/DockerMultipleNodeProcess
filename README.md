@@ -3,6 +3,7 @@ The purpose of this project is to setup multiple node processes in a single dock
 
 ## Dependencies  
 You must have docker installed on your machine
+Git (if you want to clone the project, otherwise download the repository)
 
 ## Steps to run
 1. Clone the repository

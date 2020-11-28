@@ -1,4 +1,4 @@
-# Docker Multiple Node Processes
+# Single Docker, Multiple Node Processes
 The purpose of this project is to setup multiple node processes in a single docker container. 
 
 ## Dependencies  
